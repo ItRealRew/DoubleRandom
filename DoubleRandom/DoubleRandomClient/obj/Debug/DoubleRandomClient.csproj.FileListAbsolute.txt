@@ -1,0 +1,4 @@
+C:\Users\Maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomClient\obj\Debug\DoubleRandomClient.Form1.resources
+C:\Users\Maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomClient\obj\Debug\DoubleRandomClient.Properties.Resources.resources
+C:\Users\Maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomClient\obj\Debug\DoubleRandomClient.csproj.GenerateResource.Cache
+C:\Users\Maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomClient\bin\Debug\DoubleRandomClient.exe.config

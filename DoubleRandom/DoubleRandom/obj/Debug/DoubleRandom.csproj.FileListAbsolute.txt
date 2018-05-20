@@ -1,0 +1,6 @@
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandom\bin\Debug\DoubleRandom.dll.config
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandom\bin\Debug\DoubleRandom.dll
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandom\bin\Debug\DoubleRandom.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandom\obj\Debug\DoubleRandom.dll
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandom\obj\Debug\DoubleRandom.pdb
+C:\Users\Maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandom\obj\Debug\DoubleRandom.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomHost\bin\Debug\DoubleRandomHost.exe.config
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomHost\bin\Debug\DoubleRandomHost.exe
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomHost\bin\Debug\DoubleRandomHost.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomHost\bin\Debug\DoubleRandom.dll
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomHost\bin\Debug\DoubleRandom.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomHost\obj\Debug\DoubleRandomHost.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomHost\obj\Debug\DoubleRandomHost.exe
+c:\users\maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomHost\obj\Debug\DoubleRandomHost.pdb

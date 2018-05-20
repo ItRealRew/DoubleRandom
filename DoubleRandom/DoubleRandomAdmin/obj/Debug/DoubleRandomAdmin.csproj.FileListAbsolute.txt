@@ -1,0 +1,5 @@
+C:\Users\Maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomAdmin\bin\Debug\DoubleRandomAdmin.exe.config
+C:\Users\Maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomAdmin\bin\Debug\DoubleRandomAdmin.exe
+C:\Users\Maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomAdmin\bin\Debug\DoubleRandomAdmin.pdb
+C:\Users\Maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomAdmin\obj\Debug\DoubleRandomAdmin.exe
+C:\Users\Maxim\documents\visual studio 2015\Projects\DoubleRandom\DoubleRandomAdmin\obj\Debug\DoubleRandomAdmin.pdb
